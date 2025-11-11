@@ -18,5 +18,6 @@ export const META = {
     "Full Stack Engineer",
     "React Developer",
     "Portfolio",
+    "Portfolio2",
   ],
 };

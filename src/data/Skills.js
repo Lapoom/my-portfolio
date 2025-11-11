@@ -14,11 +14,8 @@ const skills = [
   "Networking (Cisco Certified)",
   "Framer Motion",
   "GSAP Animations",
-  "React Native",
-  "Flutter (Beginner)",
   "Python",
   "Linux & Bash",
-  "Docker",
 ];
 
 export default skills;
