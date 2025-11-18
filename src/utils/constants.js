@@ -1,4 +1,4 @@
-export const SITE_NAME = "Cyberflex Portfolio";
+export const SITE_NAME = "Cyberpaps Portfolio";
 export const SITE_URL = "https://cyberflex-portfolio.vercel.app";
 export const EMAIL = "cyberflex.dev@gmail.com";
 
