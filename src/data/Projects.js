@@ -11,7 +11,7 @@ const projects = [
   },
   {
     id: 2,
-    title: "PagePilot AI",
+    title: "Password Strenght Checker",
     image: "/images/projects/pagepilot.png",
     description:
       "An AI-powered landing page generator with one-click deployment and a drag-and-drop editor. Frontend-only project built with Next.js.",
